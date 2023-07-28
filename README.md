@@ -15,3 +15,6 @@ This is really basic because I don't have many experience of what is important t
 
 There is only one config.json file, that you need to configure changing the directory patch of where those INPUT and PLAYER folders are, so that the program can reado from it.
 Also the program will look first to all logs files that are in those folders and show at first time, after reading the whole thing, it will show in real time every time that those log files are changed based on those filters explained at those topics at the top.
+
+***How to use***
+ Just configure the config.json file as mentioned at the "About the program" section and run the Main.exe inside of the dist folder.
